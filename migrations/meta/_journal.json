@@ -8,6 +8,13 @@
       "when": 1771619458705,
       "tag": "0000_nervous_mac_gargan",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1771764093329,
+      "tag": "0001_easy_scalphunter",
+      "breakpoints": true
     }
   ]
 }
