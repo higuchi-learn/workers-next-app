@@ -15,6 +15,13 @@
       "when": 1771764093329,
       "tag": "0001_easy_scalphunter",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1771831967752,
+      "tag": "0002_bored_preak",
+      "breakpoints": true
     }
   ]
 }
